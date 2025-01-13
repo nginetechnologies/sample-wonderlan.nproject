@@ -1,0 +1,9 @@
+{
+    "guid": "61f507e3-880c-415c-bdd4-2df5a82b1efd",
+    "source": "Pickup Spinny 1.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "61f507e3-880c-415c-bdd4-2df5a82b1efd"
+    }
+}

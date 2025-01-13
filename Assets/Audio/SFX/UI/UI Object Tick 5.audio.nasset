@@ -1,0 +1,9 @@
+{
+    "guid": "c19122da-220a-7799-6ebb-152a6a462243",
+    "source": "UI Object Tick 5.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "c19122da-220a-7799-6ebb-152a6a462243"
+    }
+}

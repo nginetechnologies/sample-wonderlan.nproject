@@ -1,0 +1,9 @@
+{
+    "guid": "1062c3cc-0a7b-c884-814b-4e93df65a383",
+    "source": "Jump 4.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "1062c3cc-0a7b-c884-814b-4e93df65a383"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "33e6c9df-bd82-8500-78dc-f03c53032a7c",
+    "source": "Footstep Wood 2.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "33e6c9df-bd82-8500-78dc-f03c53032a7c"
+    }
+}
